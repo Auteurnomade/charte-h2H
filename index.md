@@ -6,6 +6,8 @@
     "Vers un management à impact et une transformation collective"
 </blockquote>
 
+---
+
 📖 **1. Préambule : pourquoi le H2H ?**
 
 **Contexte et raison d’être**
@@ -24,6 +26,8 @@ Depuis, plusieurs coauteurs, dont Philip Kotler, Waldemar Pfoertsch, Uwe Sponhol
 
 Nous enrichissons à notre tour cette vision pour l’étendre au-delà du marketing et en faire un véritable cadre de transformation des pratiques managériales, relationnelles et stratégiques. Loin d’être une simple tendance, nous l’érigeons en philosophie organisationnelle globale, fondée sur l’intelligence collective, la gouvernance partagée et la création de valeur durable.
 
+---
+
 🌟 **2. Notre vision du H2H**
 
 Le H2H repose sur des interactions authentiques, une gouvernance partagée et un management fondé sur la collaboration et l’impact humain.
@@ -35,6 +39,8 @@ Il permet de :
 ✔ Fidéliser les clients en créant des interactions sincères et durables.
 
 ✔ Transformer l’entreprise en acteur responsable, aligné avec les attentes sociétales et environnementales.
+
+---
 
 🌱 **3. Valeurs et principes directeurs du H2H**
 
@@ -51,6 +57,8 @@ Le H2H repose donc sur cinq valeurs fondamentales, qui guident nos actions et no
 🎯 Expérience personnalisée : adaptation de nos interactions aux attentes uniques de chaque personne.
 
 🔒 Confiance : baser nos relations sur la compétence, la bienveillance et l’intégrité.
+
+---
 
 🔑 **4. Les 7 leviers du H2H**
 
@@ -91,6 +99,8 @@ Pour concrétiser le H2H dans nos organisations, il est nécessaire de structure
 •	Écouter activement les besoins et attentes pour proposer des solutions adaptées et personnalisées.
 •	Construire une expérience client cohérente, alignée avec les valeurs de l’organisation et génératrice de fidélisation.
 
+---
+
 🌍 **5. Les principes de réalité**
 
 **Nos entreprises ne survivront pas si…**
@@ -117,6 +127,8 @@ Croire à une croissance verte infinie est une illusion. Il est impossible d’a
 
 Une économie réellement soutenable est celle qui préserve les conditions de vie sur terre et qui donne du sens aux activités humaines en encourageant des modèles basés sur la sobriété et l’équité.
 
+---
+
 🎯 **6. Les bénéfices du H2H pour une entreprise**
 
 💡 Pourquoi adopter le H2H ? Parce qu'il apporte des bénéfices concrets et mesurables, aussi bien pour les collaborateurs que pour l'entreprise elle-même.
@@ -138,6 +150,8 @@ Une économie réellement soutenable est celle qui préserve les conditions de v
 
 ✅ **Renforcement de la résilience**
 🔄 → Capacité d’adaptation accrue face aux crises économiques, sociales et environnementales.
+
+---
 
 🏛 **7. Conclusion : et si l’entreprise devenait pleinement citoyenne ?**
 
@@ -162,6 +176,8 @@ Et si l’entreprise devenait un acteur clé du bien commun ?**
 
 📌 **Premiers pas concrets** → Pour amorcer cette transformation, chaque entreprise peut commencer par un diagnostic interne H2H, évaluer ses pratiques actuelles et définir ses premiers engagements concrets.
 
+---
+
 🔄 **8. Une charte vivante et contributive**
 
 Cette charte est open source et chaque signataire peut :
@@ -173,3 +189,36 @@ Cette charte est open source et chaque signataire peut :
 En signant cette charte, nous nous engageons à être acteurs d’un changement durable et profond du monde du travail.
 
 🌟 Prêts à bâtir ensemble un avenir plus humain et responsable ? Rejoignez le mouvement H2H !
+
+---
+
+## ✍️ Comment signer la charte ?
+
+🔹 **Méthode recommandée (open source) :**  
+👉 **Ajoutez votre signature sur GitHub via une Pull Request :** [Ajoutez votre signature ici](SIGNATAIRES.md)  
+
+🔹 **Alternative (sans compte GitHub) :**  
+✍️ **Signer la charte via Microsoft Forms :** [Formulaire de signature](https://forms.office.com/e/zeDTdAxR8C)
+
+---
+
+## 🚀 Contribuer à l’évolution de la charte
+
+La charte est **open source** et évolutive. Vous pouvez :  
+- **Proposer des améliorations** via une Pull Request sur GitHub.  
+- **Participer aux discussions** pour faire évoluer le texte.  
+- **Partager la charte** et aider à la diffusion du H2H.  
+
+🔹 **Méthode recommandée (open source) :**  
+💡 **Proposer une amélioration à la charte sur GitHub :** [Créer une issue ici](https://github.com/auteurnomade/charte-h2H/issues)  
+
+🔹 **Alternative (sans compte GitHub) :**  
+💡 **Proposer une amélioration via Microsoft Forms :** [Formulaire de contribution](https://forms.office.com/e/r0Ui7HrFmy)
+
+---
+
+## 🛡 Licence
+
+Creative Commons **CC BY-NC-SA 4.0** | [Détails de la licence](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
+
+---
