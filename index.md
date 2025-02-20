@@ -7,7 +7,7 @@
 </blockquote>
 
 ---<br>
-
+<hr>
 ## 📖 **1. Préambule : pourquoi le H2H ?**
 
 **Contexte et raison d’être**
@@ -17,7 +17,7 @@ Le monde du travail évolue : les attentes des collaborateurs changent, les clie
 Nous, signataires de cette charte, portons la conviction que le H2H (Human to Human) est un levier stratégique et un cadre pour bâtir des organisations plus économiquement responsables, plus engagées et alignées avec les défis de notre époque.
 
 Le H2H ne se limite pas à une approche marketing, mais devient un socle philosophique, managérial et stratégique pour transformer les pratiques entrepreneuriales.
-
+<hr>
 📜 **Historique et réappropriation du H2H**
 
 Le concept H2H a été introduit par Bryan Kramer en 2014 comme une alternative aux approches traditionnelles du marketing et des affaires, souvent trop impersonnelles et centrées sur le produit. Son idée centrale : toutes les interactions, qu’elles soient entre entreprises ou entre une entreprise et ses clients, sont avant tout humaines.
@@ -27,7 +27,7 @@ Depuis, plusieurs coauteurs, dont Philip Kotler, Waldemar Pfoertsch, Uwe Sponhol
 Nous enrichissons à notre tour cette vision pour l’étendre au-delà du marketing et en faire un véritable cadre de transformation des pratiques managériales, relationnelles et stratégiques. Loin d’être une simple tendance, nous l’érigeons en philosophie organisationnelle globale, fondée sur l’intelligence collective, la gouvernance partagée et la création de valeur durable.
 
 ---<br>
-
+<hr>
 ## 🌟 **2. Notre vision du H2H**
 
 Le H2H repose sur des interactions authentiques, une gouvernance partagée et un management fondé sur la collaboration et l’impact humain.
@@ -41,7 +41,7 @@ Il permet de :
 ✔ Transformer l’entreprise en acteur responsable, aligné avec les attentes sociétales et environnementales.
 
 ---<br>
-
+<hr>
 ## 🌱 **3. Valeurs et principes directeurs du H2H**
 
 Les valeurs du H2H ne sont pas choisies au hasard. Elles constituent les fondations indispensables pour transformer nos modes de collaboration, de gouvernance et de relation client. Dans un monde en mutation, où la défiance et la rupture des liens essentiels – entre collaborateurs, clients, entreprises et leur environnement – peuvent fragiliser les organisations, ces principes assurent une cohérence entre les discours et les pratiques, renforçant ainsi la confiance et l’engagement de toutes les parties prenantes.
@@ -59,7 +59,7 @@ Le H2H repose donc sur cinq valeurs fondamentales, qui guident nos actions et no
 🔒 Confiance : baser nos relations sur la compétence, la bienveillance et l’intégrité.
 
 ---<br>
-
+<hr>
 ## 🔑 **4. Les 7 leviers du H2H**
 
 Pour concrétiser le H2H dans nos organisations, il est nécessaire de structurer une approche qui dépasse les intentions et s’ancre dans des actions tangibles. Ces 7 leviers constituent un cadre stratégique permettant d’aligner les pratiques managériales, la gouvernance, la relation client et l’impact sociétal. Ils offrent une grille de lecture et d’action pour transformer nos entités en intégrant pleinement l’humain, la coopération et la responsabilité dans notre fonctionnement quotidien.
@@ -100,7 +100,7 @@ Pour concrétiser le H2H dans nos organisations, il est nécessaire de structure
 •	Construire une expérience client cohérente, alignée avec les valeurs de l’organisation et génératrice de fidélisation.<br>
 
 ---<br>
-
+<hr>
 ## 🌍 **5. Les principes de réalité**
 
 **Nos entreprises ne survivront pas si…**
@@ -128,7 +128,7 @@ Croire à une croissance verte infinie est une illusion. Il est impossible d’a
 Une économie réellement soutenable est celle qui préserve les conditions de vie sur terre et qui donne du sens aux activités humaines en encourageant des modèles basés sur la sobriété et l’équité.
 
 ---<br>
-
+<hr>
 ## 🎯 **6. Les bénéfices du H2H pour une entreprise**
 
 💡 Pourquoi adopter le H2H ? Parce qu'il apporte des bénéfices concrets et mesurables, aussi bien pour les collaborateurs que pour l'entreprise elle-même.
@@ -152,7 +152,7 @@ Une économie réellement soutenable est celle qui préserve les conditions de v
 🔄 → Capacité d’adaptation accrue face aux crises économiques, sociales et environnementales.
 
 ---<br>
-
+<hr>
 ## 🏛 **7. Conclusion : et si l’entreprise devenait pleinement citoyenne ?**
 
 Nous avons démontré à travers cette charte que le H2H est une réponse pertinente aux défis que doivent relever nos entreprises. Ce modèle transforme l’entreprise en un espace de coopération, d’innovation et d’impact.
@@ -179,7 +179,7 @@ Et si l’entreprise devenait un acteur clé du bien commun ?**
 → Pour amorcer cette transformation, chaque entreprise peut commencer par un diagnostic interne H2H, évaluer ses pratiques actuelles et définir ses premiers engagements concrets.
 
 ---<br>
-
+<hr>
 ## 🔄 **8. Une charte vivante et contributive**
 
 Cette charte est open source et chaque signataire peut :
@@ -193,7 +193,7 @@ En signant cette charte, nous nous engageons à être acteurs d’un changement 
 🌟 Prêts à bâtir ensemble un avenir plus humain et responsable ?
 
 ---<br>
-
+<hr>
 ## ✅ Rejoignez le mouvement H2H !  
 
 Vous souhaitez soutenir et faire évoluer la charte ? Voici comment participer :  
@@ -206,7 +206,7 @@ Vous souhaitez soutenir et faire évoluer la charte ? Voici comment participer :
 ✍️ **[Signer la charte via Microsoft Forms](https://forms.office.com/e/zeDTdAxR8C)**  
 
 ---
-
+<hr>
 ### 🚀 **Améliorer la charte**  
 🔹 **Méthode recommandée (open source) :**  
 💡 **[Contribuer à la charte sur GitHub](https://github.com/auteurnomade/charte-h2H/issues)**  
@@ -217,7 +217,7 @@ Vous souhaitez soutenir et faire évoluer la charte ? Voici comment participer :
 📢 **Merci pour votre engagement envers un monde plus humain et responsable !** 🌍💡🚀  
 
 ---
-
+<hr>
 ## 🛡 Licence  
 
 Creative Commons **CC BY-NC-SA 4.0** | [Détails de la licence](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)  
