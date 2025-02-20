@@ -6,7 +6,7 @@
     "Vers un management à impact et une transformation collective"
 </blockquote>
 
----
+---<br>
 
 ## 📖 **1. Préambule : pourquoi le H2H ?**
 
@@ -26,7 +26,7 @@ Depuis, plusieurs coauteurs, dont Philip Kotler, Waldemar Pfoertsch, Uwe Sponhol
 
 Nous enrichissons à notre tour cette vision pour l’étendre au-delà du marketing et en faire un véritable cadre de transformation des pratiques managériales, relationnelles et stratégiques. Loin d’être une simple tendance, nous l’érigeons en philosophie organisationnelle globale, fondée sur l’intelligence collective, la gouvernance partagée et la création de valeur durable.
 
----
+---<br>
 
 ## 🌟 **2. Notre vision du H2H**
 
@@ -40,7 +40,7 @@ Il permet de :
 
 ✔ Transformer l’entreprise en acteur responsable, aligné avec les attentes sociétales et environnementales.
 
----
+---<br>
 
 ## 🌱 **3. Valeurs et principes directeurs du H2H**
 
@@ -58,7 +58,7 @@ Le H2H repose donc sur cinq valeurs fondamentales, qui guident nos actions et no
 
 🔒 Confiance : baser nos relations sur la compétence, la bienveillance et l’intégrité.
 
----
+---<br>
 
 ## 🔑 **4. Les 7 leviers du H2H**
 
@@ -99,7 +99,7 @@ Pour concrétiser le H2H dans nos organisations, il est nécessaire de structure
 •	Écouter activement les besoins et attentes pour proposer des solutions adaptées et personnalisées.<br>
 •	Construire une expérience client cohérente, alignée avec les valeurs de l’organisation et génératrice de fidélisation.<br>
 
----
+---<br>
 
 ## 🌍 **5. Les principes de réalité**
 
@@ -127,7 +127,7 @@ Croire à une croissance verte infinie est une illusion. Il est impossible d’a
 
 Une économie réellement soutenable est celle qui préserve les conditions de vie sur terre et qui donne du sens aux activités humaines en encourageant des modèles basés sur la sobriété et l’équité.
 
----
+---<br>
 
 ## 🎯 **6. Les bénéfices du H2H pour une entreprise**
 
@@ -151,7 +151,7 @@ Une économie réellement soutenable est celle qui préserve les conditions de v
 ✅ **Renforcement de la résilience**<br>
 🔄 → Capacité d’adaptation accrue face aux crises économiques, sociales et environnementales.
 
----
+---<br>
 
 ## 🏛 **7. Conclusion : et si l’entreprise devenait pleinement citoyenne ?**
 
@@ -178,21 +178,21 @@ Et si l’entreprise devenait un acteur clé du bien commun ?**
 📌 **Premiers pas concrets**<br>
 → Pour amorcer cette transformation, chaque entreprise peut commencer par un diagnostic interne H2H, évaluer ses pratiques actuelles et définir ses premiers engagements concrets.
 
----
+---<br>
 
 ## 🔄 **8. Une charte vivante et contributive**
 
 Cette charte est open source et chaque signataire peut :
 
-📌 Proposer des évolutions et des retours d’expérience pour enrichir continuellement la démarche H2H.
-📌 Partager ses bonnes pratiques afin de créer une communauté d’entreprises engagées et apprenantes.
-📌 Expérimenter et tester de nouvelles approches pour adapter le H2H aux réalités de terrain et favoriser l’innovation managériale et organisationnelle.
+📌 Proposer des évolutions et des retours d’expérience pour enrichir continuellement la démarche H2H.<br>
+📌 Partager ses bonnes pratiques afin de créer une communauté d’entreprises engagées et apprenantes.<br>
+📌 Expérimenter et tester de nouvelles approches pour adapter le H2H aux réalités de terrain et favoriser l’innovation managériale et organisationnelle.<br>
 
 En signant cette charte, nous nous engageons à être acteurs d’un changement durable et profond du monde du travail.
 
 🌟 Prêts à bâtir ensemble un avenir plus humain et responsable ?
 
----
+---<br>
 
 ## ✅ Rejoignez le mouvement H2H !  
 
@@ -223,3 +223,6 @@ Vous souhaitez soutenir et faire évoluer la charte ? Voici comment participer :
 Creative Commons **CC BY-NC-SA 4.0** | [Détails de la licence](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)  
 
 ---
+
+📢 **Retrouvez cette charte et son évolution sur GitHub :**  
+👉 **[Consulter le repository](https://github.com/Auteurnomade/charte-h2H)**  
