@@ -9,6 +9,9 @@ En signant cette charte, vous attestez adhérer à ses principes et à sa vision
 3️⃣ Cliquez sur **"Propose changes"** et soumettez une **Pull Request**.  
 4️⃣ Votre signature sera validée par l’équipe de modération.
 
+🔹 Alternative (sans compte GitHub) :
+✍️ **Signer la charte via Microsoft Forms :** https://forms.office.com/e/zeDTdAxR8C
+
 ## 📢 Signataires officiels
 
 - **Nom / Organisation** *(Ajoutez votre nom ici !)*
