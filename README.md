@@ -23,7 +23,7 @@ La charte est **open source** et évolutive. Vous pouvez :
 - **Partager la charte** et aider à la diffusion du H2H.
 
 🔹 **Méthode recommandée (open source) :**
-💡 **Proposer une amélioration à la charte sur GitHub :** 
+💡 **Proposer une amélioration à la charte sur GitHub :**
 [Créer une issue ici](https://github.com/auteurnomade/charte-h2H/issues)
 
 🔹 **Alternative (sans compte GitHub) :**
