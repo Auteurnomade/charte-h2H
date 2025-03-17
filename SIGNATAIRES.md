@@ -15,3 +15,11 @@ En signant cette charte, vous attestez adhérer à ses principes et à sa vision
 ## 📢 Signataires officiels
 
 - **Nom / Organisation** *(Ajoutez votre nom ici !)*
+- Branes Zoubida
+- Clavreuil Isabelle
+- Durand Laetitia
+- Bousquet Véronique
+- Sansus Maé
+- Sylvain Martin / Indigraphe
+- Sylvain Martin / Auteur nomade
+- Sylvain martin / Enov conseil et stratégies
